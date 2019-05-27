@@ -1,0 +1,2 @@
+# Textcnn_tensorflow
+基于搜狐2019算法赛数据的细粒度情感分析
