@@ -26,3 +26,5 @@ train.py是训练代码
 本人初学者一枚，所以可能有写错的地方还望指出
 
 模型太大上传不上去，还请见谅。
+
+word2vec模型放在了我的百度网盘里，拷贝下来放在word2vec文件夹下即可。百度云链接：链接：https://pan.baidu.com/s/1X5FYj7fubF8KZVhLZdKtwg 提取码：q4k9
